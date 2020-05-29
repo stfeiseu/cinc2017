@@ -13,7 +13,7 @@ This classifier uses three scripts:
 ## Use
 
 Here are instructions for testing the code in Linux.  
- First, create a folder, `docker_test`, in your home directory. Then, git clone the code in `docker_test`. 
+ First, create a folder, `docker_test`, in your home directory. Then, git clone the code in `docker_test/cinc2017_test`. 
  
     git clone https://github.com/stfeiseu/cinc2017.git
 
